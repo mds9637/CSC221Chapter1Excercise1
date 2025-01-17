@@ -23,7 +23,7 @@ int main()
     std::cout << "Addition Program Console Calculator."; 
     std::cout << " Please enter a number. ";
     std::cin >> number1;
-    std::cout << "Please enter another number ";
+    std::cout << "Please enter another number. ";
     std::cin >> number2;
     std::cout << number1 + number2;
     return 0;
