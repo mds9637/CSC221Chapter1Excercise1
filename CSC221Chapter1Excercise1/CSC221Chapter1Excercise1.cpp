@@ -19,9 +19,8 @@ int main()
 
     int number1;
     int number2;
-    int number3;
 
-    std::cout << "This program will add two numbers together."; 
+    std::cout << "Addition Program Console Calculator."; 
     std::cout << " Please enter a number. ";
     std::cin >> number1;
     std::cout << "Please enter another number ";
