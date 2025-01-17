@@ -27,7 +27,7 @@ int main()
     std::cin >> number2;
     std::cout << number1 + number2;
     return 0;
-
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
